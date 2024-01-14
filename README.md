@@ -1,0 +1,1 @@
+Hugo Directus Blog
